@@ -7,6 +7,4 @@ setup(
     author_email="vismayanv2004@gmail.com"
     packages=find_packages(),
     install_requires=[]
-
-
 )
